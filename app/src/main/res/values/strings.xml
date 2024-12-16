@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TVpocApplication</string>
+    <string name="url_scheme">{google.com}://</string>
+</resources>
